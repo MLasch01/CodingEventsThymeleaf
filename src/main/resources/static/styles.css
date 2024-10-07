@@ -1,0 +1,9 @@
+body {
+    font-size: 18px;
+    color: purple;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
